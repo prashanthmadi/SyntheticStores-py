@@ -1,0 +1,1486 @@
+{
+	"shop_categories": [
+		{
+			"category": "Electronics",
+			"products": [
+				"Smartphones",
+				"Laptops",
+				"Tablets",
+				"Headphones",
+				"Smartwatches",
+				"TVs",
+				"Cameras",
+				"Home Theater Systems",
+				"Gaming Consoles",
+				"Video Games"
+			]
+		},
+		{
+			"category": "Clothing",
+			"products": [
+				"T-Shirts",
+				"Jeans",
+				"Dresses",
+				"Jackets",
+				"Sweaters",
+				"Shorts",
+				"Skirts",
+				"Suits",
+				"Swimwear",
+				"Activewear"
+			]
+		},
+		{
+			"category": "Footwear",
+			"products": [
+				"Sneakers",
+				"Boots",
+				"Sandals",
+				"Heels",
+				"Flats",
+				"Loafers",
+				"Slippers",
+				"Running Shoes",
+				"Hiking Boots",
+				"Dress Shoes"
+			]
+		},
+		{
+			"category": "Jewelry",
+			"products": [
+				"Necklaces",
+				"Earrings",
+				"Bracelets",
+				"Rings",
+				"Watches",
+				"Brooches",
+				"Cufflinks",
+				"Pendants",
+				"Charms",
+				"Anklets"
+			]
+		},
+		{
+			"category": "Watch",
+			"products": [
+				"Analog Watches",
+				"Digital Watches",
+				"Smartwatches",
+				"Chronograph Watches",
+				"Diving Watches",
+				"Dress Watches",
+				"Luxury Watches",
+				"Sports Watches",
+				"Field Watches",
+				"Pilot Watches"
+			]
+		},
+		{
+			"category": "Handbag",
+			"products": [
+				"Tote Bags",
+				"Crossbody Bags",
+				"Clutches",
+				"Shoulder Bags",
+				"Satchels",
+				"Hobo Bags",
+				"Backpacks",
+				"Messenger Bags",
+				"Mini Bags",
+				"Bucket Bags"
+			]
+		},
+		{
+			"category": "Beauty Product",
+			"products": [
+				"Lipstick",
+				"Mascara",
+				"Foundation",
+				"Eyeshadow",
+				"Blush",
+				"Concealer",
+				"Eyeliner",
+				"Lip Gloss",
+				"Powder",
+				"Bronzer",
+				"Moisturizers",
+				"Cleansers",
+				"Serums",
+				"Toners",
+				"Face Masks",
+				"Eye Creams",
+				"Sunscreen",
+				"Exfoliators",
+				"Acne Treatments",
+				"Night Creams",
+				"Shampoo",
+				"Conditioner",
+				"Hair Masks",
+				"Hair Oil",
+				"Hair Gel",
+				"Hair Spray",
+				"Leave-in Conditioner",
+				"Hair Serums",
+				"Hair Mousse",
+				"Dry Shampoo",
+				"Foundation",
+				"Concealer",
+				"Blush",
+				"Bronzer",
+				"Highlighter",
+				"Setting Spray",
+				"Setting Powder",
+				"Primer",
+				"Contour",
+				"Brow Gel"
+			]
+		},
+		{
+			"category": "Perfume",
+			"products": [
+				"Eau de Parfum",
+				"Eau de Toilette",
+				"Eau de Cologne",
+				"Perfume Oil",
+				"Body Spray",
+				"Rollerball Perfume",
+				"Solid Perfume",
+				"Fragrance Mist",
+				"Hair Perfume",
+				"Mini Perfume"
+			]
+		},
+		{
+			"category": "Fitness Equipment",
+			"products": [
+				"Treadmills",
+				"Exercise Bikes",
+				"Dumbbells",
+				"Kettlebells",
+				"Resistance Bands",
+				"Yoga Mats",
+				"Rowing Machines",
+				"Ellipticals",
+				"Jump Ropes",
+				"Weight Benches"
+			]
+		},
+		{
+			"category": "Sports Gear",
+			"products": [
+				"Football Gear",
+				"Basketball Gear",
+				"Soccer Gear",
+				"Baseball Gear",
+				"Tennis Gear",
+				"Golf Gear",
+				"Hockey Gear",
+				"Cricket Gear",
+				"Volleyball Gear",
+				"Boxing Gear"
+			]
+		},
+		{
+			"category": "Outdoor Equipment",
+			"products": [
+				"Tents",
+				"Sleeping Bags",
+				"Camping Chairs",
+				"Camping Stoves",
+				"Coolers",
+				"Backpacks",
+				"Hiking Boots",
+				"Camping Lanterns",
+				"Portable Grills",
+				"Camping Tables",
+				"Tents",
+				"Sleeping Bags",
+				"Camping Chairs",
+				"Camping Stoves",
+				"Coolers",
+				"Backpacks",
+				"Hiking Boots",
+				"Camping Lanterns",
+				"Portable Grills",
+				"Camping Tables"
+			]
+		},
+		{
+			"category": "Gardening Supply",
+			"products": [
+				"Garden Tools",
+				"Planters",
+				"Soil",
+				"Seeds",
+				"Fertilizers",
+				"Pots",
+				"Watering Cans",
+				"Garden Hoses",
+				"Pruning Shears",
+				"Garden Decor"
+			]
+		},
+		{
+			"category": "Home Decor",
+			"products": [
+				"Wall Art",
+				"Picture Frames",
+				"Candles",
+				"Vases",
+				"Clocks",
+				"Mirrors",
+				"Rugs",
+				"Curtains",
+				"Throw Pillows",
+				"Lamps"
+			]
+		},
+		{
+			"category": "Furniture",
+			"products": [
+				"Sofas",
+				"Chairs",
+				"Tables",
+				"Beds",
+				"Dressers",
+				"Nightstands",
+				"Bookcases",
+				"Desks",
+				"TV Stands",
+				"Cabinets"
+			]
+		},
+		{
+			"category": "Kitchen Appliance",
+			"products": [
+				"Refrigerators",
+				"Microwave Ovens",
+				"Dishwashers",
+				"Blenders",
+				"Coffee Makers",
+				"Toasters",
+				"Food Processors",
+				"Mixers",
+				"Air Fryers",
+				"Instant Pots"
+			]
+		},
+		{
+			"category": "Appliance",
+			"products": [
+				"Blenders",
+				"Toasters",
+				"Coffee Makers",
+				"Microwave Ovens",
+				"Air Fryers",
+				"Mixers",
+				"Food Processors",
+				"Electric Kettles",
+				"Juicers",
+				"Rice Cookers",
+				"Refrigerators",
+				"Washing Machines",
+				"Dryers",
+				"Dishwashers",
+				"Ovens",
+				"Stoves",
+				"Freezers",
+				"Air Conditioners",
+				"Water Heaters",
+				"Microwave Ovens"
+			]
+		},
+		{
+			"category": "Home Improvement",
+			"products": [
+				"Paint",
+				"Lumber",
+				"Flooring",
+				"Lighting",
+				"Plumbing Supplies",
+				"Electrical Supplies",
+				"Hardware",
+				"Tools",
+				"Windows",
+				"Doors"
+			]
+		},
+		{
+			"category": "Tool",
+			"products": [
+				"Drills",
+				"Saws",
+				"Sanders",
+				"Grinders",
+				"Impact Drivers",
+				"Jigsaws",
+				"Circular Saws",
+				"Reciprocating Saws",
+				"Planers",
+				"Rotary Tools",
+				"Hammers",
+				"Screwdrivers",
+				"Wrenches",
+				"Pliers",
+				"Tape Measures",
+				"Utility Knives",
+				"Levels",
+				"Allen Wrenches",
+				"Handsaws",
+				"Chisels"
+			]
+		},
+		{
+			"category": "Automotive Part",
+			"products": [
+				"Brake Pads",
+				"Oil Filters",
+				"Air Filters",
+				"Batteries",
+				"Spark Plugs",
+				"Windshield Wipers",
+				"Headlights",
+				"Tires",
+				"Car Mats",
+				"Seat Covers"
+			]
+		},
+		{
+			"category": "Car Accessory",
+			"products": [
+				"Seat Covers",
+				"Car Mats",
+				"Steering Wheel Covers",
+				"Phone Mounts",
+				"Car Chargers",
+				"Roof Racks",
+				"Trunk Organizers",
+				"Dash Cameras",
+				"GPS Devices",
+				"Car Covers"
+			]
+		},
+		{
+			"category": "Pet Supply",
+			"products": [
+				"Pet Food",
+				"Pet Toys",
+				"Pet Beds",
+				"Pet Carriers",
+				"Pet Leashes",
+				"Pet Collars",
+				"Pet Bowls",
+				"Cat Litter",
+				"Pet Grooming Supplies",
+				"Aquarium Supplies"
+			]
+		},
+		{
+			"category": "Baby Products",
+			"products": [
+				"Diapers",
+				"Baby Wipes",
+				"Baby Food",
+				"Baby Bottles",
+				"Strollers",
+				"Car Seats",
+				"Cribs",
+				"Baby Monitors",
+				"Baby Clothes",
+				"Baby Toys"
+			]
+		},
+		{
+			"category": "Toy",
+			"products": [
+				"Action Figures",
+				"Dolls",
+				"Building Sets",
+				"Board Games",
+				"Puzzles",
+				"Stuffed Animals",
+				"Remote Control Toys",
+				"Educational Toys",
+				"Outdoor Toys",
+				"Art & Craft Kits"
+			]
+		},
+		{
+			"category": "Book",
+			"products": [
+				"Fiction",
+				"Non-fiction",
+				"Mystery",
+				"Science Fiction",
+				"Fantasy",
+				"Biographies",
+				"History",
+				"Romance",
+				"Self-help",
+				"Children's Books"
+			]
+		},
+		{
+			"category": "Music",
+			"products": [
+				"CDs",
+				"Vinyl Records",
+				"Digital Albums",
+				"Music DVDs",
+				"Sheet Music",
+				"Guitar Strings",
+				"Drumsticks",
+				"Picks",
+				"Microphones",
+				"Headphones"
+			]
+		},
+		{
+			"category": "Musical Instrument",
+			"products": [
+				"Guitars",
+				"Keyboards",
+				"Drums",
+				"Violins",
+				"Flutes",
+				"Saxophones",
+				"Trumpets",
+				"Clarinets",
+				"Ukuleles",
+				"Harmonicas"
+			]
+		},
+		{
+			"category": "Office Supply",
+			"products": [
+				"Pens",
+				"Pencils",
+				"Notebooks",
+				"Paper",
+				"Staplers",
+				"Binders",
+				"Folders",
+				"Scissors",
+				"Tape",
+				"Markers"
+			]
+		},
+		{
+			"category": "Stationery",
+			"products": [
+				"Notebooks",
+				"Pens",
+				"Pencils",
+				"Erasers",
+				"Rulers",
+				"Markers",
+				"Highlighters",
+				"Sticky Notes",
+				"Paper Clips",
+				"Staplers"
+			]
+		},
+		{
+			"category": "Art Supply",
+			"products": [
+				"Paints",
+				"Brushes",
+				"Canvases",
+				"Sketchbooks",
+				"Colored Pencils",
+				"Markers",
+				"Easels",
+				"Palettes",
+				"Clay",
+				"Sculpting Tools"
+			]
+		},
+		{
+			"category": "Craft Supply",
+			"products": [
+				"Yarn",
+				"Fabrics",
+				"Beads",
+				"Ribbons",
+				"Glue",
+				"Scissors",
+				"Needles",
+				"Threads",
+				"Buttons",
+				"Craft Kits"
+			]
+		},
+		{
+			"category": "Party Supply",
+			"products": [
+				"Balloons",
+				"Streamers",
+				"Party Hats",
+				"Tableware",
+				"Napkins",
+				"Party Favors",
+				"Banners",
+				"Invitations",
+				"Cake Toppers",
+				"Confetti"
+			]
+		},
+		{
+			"category": "Grocery",
+			"products": [
+				"Fruits",
+				"Vegetables",
+				"Meat",
+				"Dairy",
+				"Bread",
+				"Cereal",
+				"Snacks",
+				"Frozen Foods",
+				"Canned Goods",
+				"Beverages"
+			]
+		},
+		{
+			"category": "Gourmet Food",
+			"products": [
+				"Cheese",
+				"Chocolate",
+				"Olive Oil",
+				"Balsamic Vinegar",
+				"Truffles",
+				"Specialty Coffee",
+				"Gourmet Teas",
+				"Smoked Salmon",
+				"Caviar",
+				"Artisanal Bread"
+			]
+		},
+		{
+			"category": "Health Food",
+			"products": [
+				"Organic Produce",
+				"Gluten-Free Products",
+				"Protein Bars",
+				"Supplements",
+				"Herbal Teas",
+				"Nuts",
+				"Seeds",
+				"Dried Fruits",
+				"Smoothie Mixes",
+				"Superfoods"
+			]
+		},
+		{
+			"category": "Beverage",
+			"products": [
+				"Coffee",
+				"Tea",
+				"Juice",
+				"Soda",
+				"Energy Drinks",
+				"Water",
+				"Sports Drinks",
+				"Milk",
+				"Beer",
+				"Red Wine",
+				"White Wine",
+				"Rose Wine",
+				"Sparkling Wine",
+				"Champagne",
+				"Dessert Wine",
+				"Fortified Wine",
+				"Organic Wine",
+				"Non-Alcoholic Wine",
+				"Wine Accessories",
+				"Vodka",
+				"Whiskey",
+				"Rum",
+				"Tequila",
+				"Gin",
+				"Brandy",
+				"Cognac",
+				"Liqueurs",
+				"Absinthe",
+				"Bitters"
+			]
+		},
+		{
+			"category": "Fitness Nutrition",
+			"products": [
+				"Protein Powders",
+				"Energy Bars",
+				"Hydration Mixes",
+				"Pre-Workout Supplements",
+				"Post-Workout Supplements",
+				"Meal Replacement Shakes",
+				"Amino Acids",
+				"Electrolytes",
+				"BCAA",
+				"Creatine"
+			]
+		},
+		{
+			"category": "Medical Supply",
+			"products": [
+				"First Aid Kits",
+				"Bandages",
+				"Thermometers",
+				"Blood Pressure Monitors",
+				"Glucose Meters",
+				"Stethoscopes",
+				"Face Masks",
+				"Hand Sanitizer",
+				"Disinfectant Wipes",
+				"OTC Medications"
+			]
+		},
+		{
+			"category": "Pharmacy",
+			"products": [
+				"Prescription Medications",
+				"Over-the-Counter Medications",
+				"Vitamins",
+				"Supplements",
+				"First Aid Supplies",
+				"Cough & Cold Remedies",
+				"Pain Relievers",
+				"Allergy Medications",
+				"Personal Care Products",
+				"Medical Devices",
+				"Multivitamins",
+				"Vitamin C",
+				"Vitamin D",
+				"Vitamin B12",
+				"Fish Oil",
+				"Calcium",
+				"Magnesium",
+				"Probiotics",
+				"Zinc",
+				"Iron",
+				"Protein Powders",
+				"Creatine",
+				"BCAA",
+				"Fish Oil",
+				"Multivitamins",
+				"Probiotics",
+				"Glucosamine",
+				"Collagen",
+				"Vitamin D",
+				"Calcium"
+			]
+		},
+		{
+			"category": "Eyewear",
+			"products": [
+				"Prescription Glasses",
+				"Sunglasses",
+				"Reading Glasses",
+				"Contact Lenses",
+				"Eyewear Accessories",
+				"Eyeglass Cases",
+				"Lens Cleaning Solutions",
+				"Blue Light Glasses",
+				"Sports Glasses",
+				"Safety Glasses",
+				"Aviators",
+				"Wayfarers",
+				"Round Sunglasses",
+				"Square Sunglasses",
+				"Suitcases",
+				"Carry-On Bags",
+				"Travel Backpacks",
+				"Duffel Bags",
+				"Garment Bags",
+				"Rolling Luggage",
+				"Hardside Luggage",
+				"Softside Luggage",
+				"Travel Totes",
+				"Luggage Sets"
+			]
+		},
+		{
+			"category": "Outdoor Furniture",
+			"products": [
+				"Patio Sets",
+				"Outdoor Chairs",
+				"Outdoor Tables",
+				"Hammocks",
+				"Outdoor Sofas",
+				"Outdoor Benches",
+				"Outdoor Swings",
+				"Fire Pits",
+				"Outdoor Rugs",
+				"Gazebos"
+			]
+		},
+		{
+			"category": "Seasonal Decoration",
+			"products": [
+				"Christmas Trees",
+				"Holiday Lights",
+				"Halloween Decorations",
+				"Easter Decorations",
+				"Thanksgiving Decorations",
+				"Valentine's Day Decorations",
+				"Fourth of July Decorations",
+				"St. Patrick's Day Decorations",
+				"New Year's Eve Decorations",
+				"Hanukkah Decorations"
+			]
+		},
+		{
+			"category": "Holiday Supply",
+			"products": [
+				"Gift Wrap",
+				"Gift Bags",
+				"Gift Boxes",
+				"Ribbons",
+				"Bows",
+				"Holiday Cards",
+				"Stockings",
+				"Tree Ornaments",
+				"Holiday Tableware",
+				"Advent Calendars"
+			]
+		},
+		{
+			"category": "Electrical Supply",
+			"products": [
+				"Light Bulbs",
+				"Batteries",
+				"Extension Cords",
+				"Surge Protectors",
+				"Switches",
+				"Outlets",
+				"Electrical Tape",
+				"Wiring",
+				"Conduit",
+				"Electrical Tools",
+				"Ceiling Lights",
+				"Wall Lights",
+				"Table Lamps",
+				"Floor Lamps",
+				"Outdoor Lighting",
+				"Chandeliers",
+				"Pendant Lights",
+				"Track Lighting",
+				"Recessed Lighting",
+				"Smart Lighting"
+			]
+		},
+		{
+			"category": "Plumbing Supply",
+			"products": [
+				"Pipes",
+				"Fittings",
+				"Faucets",
+				"Shower Heads",
+				"Toilets",
+				"Sinks",
+				"Water Heaters",
+				"Drain Cleaners",
+				"Pipe Insulation",
+				"Water Filters"
+			]
+		},
+		{
+			"category": "Flooring",
+			"products": [
+				"Hardwood Flooring",
+				"Laminate Flooring",
+				"Vinyl Flooring",
+				"Tile Flooring",
+				"Carpet",
+				"Area Rugs",
+				"Floor Mats",
+				"Flooring Tools",
+				"Flooring Adhesives",
+				"Flooring Underlayment"
+			]
+		},
+		{
+			"category": "Carpets",
+			"products": [
+				"Area Rugs",
+				"Carpet Tiles",
+				"Carpet Runners",
+				"Outdoor Rugs",
+				"Shag Rugs",
+				"Berber Carpets",
+				"Wool Carpets",
+				"Synthetic Carpets",
+				"Carpet Pads",
+				"Carpet Cleaning Supplies"
+			]
+		},
+		{
+			"category": "Bed and Bath",
+			"products": [
+				"Memory Foam Mattresses",
+				"Innerspring Mattresses",
+				"Hybrid Mattresses",
+				"Latex Mattresses",
+				"Pillow Top Mattresses",
+				"Adjustable Beds",
+				"Mattress Toppers",
+				"Mattress Protectors",
+				"Bed Frames",
+				"Box Springs",
+				"Sheet Sets",
+				"Duvet Covers",
+				"Comforters",
+				"Blankets",
+				"Pillows",
+				"Mattress Toppers",
+				"Bed Skirts",
+				"Pillow Cases",
+				"Quilts",
+				"Bedspreads",
+				"Towels",
+				"Washcloths",
+				"Hand Towels",
+				"Bath Sheets",
+				"Beach Towels",
+				"Tablecloths",
+				"Napkins",
+				"Placemat",
+				"Curtains",
+				"Drapes",
+				"Bath Towels",
+				"Hand Towels",
+				"Washcloths",
+				"Beach Towels",
+				"Kitchen Towels",
+				"Gym Towels",
+				"Face Towels",
+				"Microfiber Towels",
+				"Turkish Towels",
+				"Towel Sets",
+				"Shower Curtains",
+				"Bath Mats",
+				"Towel Racks",
+				"Soap Dispensers",
+				"Toothbrush Holders",
+				"Bathroom Scales",
+				"Bathrobes",
+				"Bath Towels",
+				"Shower Heads",
+				"Bath Accessories"
+			]
+		},
+		{
+			"category": "Cleaning Supply",
+			"products": [
+				"All-Purpose Cleaners",
+				"Glass Cleaners",
+				"Floor Cleaners",
+				"Bathroom Cleaners",
+				"Disinfectants",
+				"Sponges",
+				"Mops",
+				"Brooms",
+				"Cleaning Cloths",
+				"Vacuum Cleaners"
+			]
+		},
+		{
+			"category": "Laundry Supply",
+			"products": [
+				"Laundry Detergent",
+				"Fabric Softener",
+				"Bleach",
+				"Stain Removers",
+				"Dryer Sheets",
+				"Laundry Baskets",
+				"Laundry Hampers",
+				"Ironing Boards",
+				"Irons",
+				"Lint Rollers"
+			]
+		},
+		{
+			"category": "Paper Product",
+			"products": [
+				"Toilet Paper",
+				"Paper Towels",
+				"Napkins",
+				"Facial Tissues",
+				"Paper Plates",
+				"Paper Cups",
+				"Paper Bowls",
+				"Paper Napkins",
+				"Paper Bags",
+				"Paper Straws"
+			]
+		},
+		{
+			"category": "Party Goods",
+			"products": [
+				"Balloons",
+				"Streamers",
+				"Party Hats",
+				"Party Favors",
+				"Party Invitations",
+				"Party Decorations",
+				"Confetti",
+				"Pinatas",
+				"Party Games",
+				"Party Tableware"
+			]
+		},
+		{
+			"category": "Candle",
+			"products": [
+				"Scented Candles",
+				"Unscented Candles",
+				"Tealights",
+				"Pillar Candles",
+				"Votive Candles",
+				"Jar Candles",
+				"Candle Holders",
+				"Candle Lanterns",
+				"Candle Accessories",
+				"Candle Making Kits"
+			]
+		},
+		{
+			"category": "Picture Frame",
+			"products": [
+				"Wooden Frames",
+				"Metal Frames",
+				"Glass Frames",
+				"Collage Frames",
+				"Digital Frames",
+				"Shadow Boxes",
+				"Photo Albums",
+				"Canvas Prints",
+				"Wall Art",
+				"Picture Hanging Supplies"
+			]
+		},
+		{
+			"category": "Storage Solution",
+			"products": [
+				"Storage Bins",
+				"Storage Boxes",
+				"Closet Organizers",
+				"Shelving Units",
+				"Under-Bed Storage",
+				"Garage Storage",
+				"Kitchen Storage",
+				"Bathroom Storage",
+				"Storage Bags",
+				"Storage Baskets"
+			]
+		},
+		{
+			"category": "Home Security",
+			"products": [
+				"Security Cameras",
+				"Alarm Systems",
+				"Motion Sensors",
+				"Door Locks",
+				"Smart Doorbells",
+				"Smoke Detectors",
+				"Carbon Monoxide Detectors",
+				"Security Lights",
+				"Safe Boxes",
+				"Window Alarms"
+			]
+		},
+		{
+			"category": "Smart Home Device",
+			"products": [
+				"Smart Speakers",
+				"Smart Displays",
+				"Smart Plugs",
+				"Smart Light Bulbs",
+				"Smart Thermostats",
+				"Smart Locks",
+				"Smart Cameras",
+				"Smart Doorbells",
+				"Smart Home Hubs",
+				"Smart Sensors"
+			]
+		},
+		{
+			"category": "Electronics",
+			"products": [
+				"Laptops",
+				"Desktops",
+				"Monitors",
+				"Keyboards",
+				"Mice",
+				"Printers",
+				"External Hard Drives",
+				"USB Flash Drives",
+				"Webcams",
+				"Computer Accessories",
+				"Gaming Laptops",
+				"Ultrabooks",
+				"2-in-1 Laptops",
+				"Business Laptops",
+				"Student Laptops",
+				"MacBooks",
+				"Chromebooks",
+				"Laptop Accessories",
+				"Laptop Bags",
+				"Laptop Stands",
+				"iPads",
+				"Android Tablets",
+				"Windows Tablets",
+				"E-Readers",
+				"Tablet Accessories",
+				"Tablet Stands",
+				"Stylus Pens",
+				"Keyboard Cases",
+				"Screen Protectors",
+				"Tablet Covers",
+				"iPhones",
+				"Android Phones",
+				"Unlocked Phones",
+				"Prepaid Phones",
+				"Smartphone Cases",
+				"Screen Protectors",
+				"Chargers",
+				"Phone Stands",
+				"Phone Mounts",
+				"Power Banks",
+				"Inkjet Printers",
+				"Laser Printers",
+				"Photo Printers",
+				"All-in-One Printers",
+				"Portable Printers",
+				"Label Printers",
+				"3D Printers",
+				"Printer Ink",
+				"Printer Toner",
+				"Printer Paper",
+				"Black Ink Cartridges",
+				"Color Ink Cartridges",
+				"Toner Cartridges",
+				"Refill Kits",
+				"Printer Drums",
+				"Printer Ribbons",
+				"Print Heads",
+				"Ink Bottles",
+				"Toner Refill Kits",
+				"Inkjet Cartridges"
+			]
+		},
+		{
+			"category": "Computer",
+			"products": [
+				"CPUs",
+				"GPUs",
+				"Motherboards",
+				"RAM",
+				"Storage Drives",
+				"Power Supplies",
+				"Cooling Systems",
+				"Cases",
+				"Networking Cards",
+				"Sound Cards",
+				"Routers",
+				"Modems",
+				"Network Switches",
+				"Access Points",
+				"Range Extenders",
+				"Network Cables",
+				"Network Adapters",
+				"Powerline Adapters",
+				"Mesh Wi-Fi Systems",
+				"Network Storage",
+				"Operating Systems",
+				"Office Software",
+				"Antivirus Software",
+				"Graphic Design Software",
+				"Video Editing Software",
+				"Accounting Software",
+				"Programming Software",
+				"Education Software",
+				"Game Software",
+				"Utility Software",
+				"Gaming Laptops",
+				"Gaming Desktops",
+				"Gaming Monitors",
+				"Gaming Keyboards",
+				"Gaming Mice",
+				"Gaming Headsets",
+				"Gaming Controllers",
+				"Gaming Chairs",
+				"Graphics Cards",
+				"Gaming Accessories"
+			]
+		},
+		{
+			"category": "Home Entertainment",
+			"products": [
+				"PlayStation Games",
+				"Xbox Games",
+				"Nintendo Switch Games",
+				"PC Games",
+				"VR Games",
+				"Mobile Games",
+				"Game Downloads",
+				"Game Gift Cards",
+				"Game Controllers",
+				"Game Accessories",
+				"Televisions",
+				"Projectors",
+				"Sound Bars",
+				"Streaming Devices",
+				"Blu-ray Players",
+				"DVD Players",
+				"Home Theater Systems",
+				"Media Players",
+				"TV Mounts",
+				"Remote Controls",
+				"Home Theater Projectors",
+				"Business Projectors",
+				"Portable Projectors",
+				"Short Throw Projectors",
+				"Laser Projectors",
+				"Projector Screens",
+				"Projector Mounts",
+				"Projector Lamps",
+				"Projector Accessories",
+				"Projector Cases"
+			]
+		},
+		{
+			"category": "Camera",
+			"products": [
+				"DSLR Cameras",
+				"Mirrorless Cameras",
+				"Point & Shoot Cameras",
+				"Action Cameras",
+				"Instant Cameras",
+				"Camera Lenses",
+				"Camera Bags",
+				"Camera Accessories",
+				"Camera Tripods",
+				"Camera Batteries",
+				"Camera Lenses",
+				"Tripods",
+				"Camera Bags",
+				"Memory Cards",
+				"Camera Batteries",
+				"Flashes",
+				"Lighting Equipment",
+				"Camera Straps",
+				"Photography Accessories",
+				"HD Camcorders",
+				"4K Camcorders",
+				"Action Camcorders",
+				"Professional Camcorders",
+				"Waterproof Camcorders",
+				"Camcorder Accessories",
+				"Camcorder Batteries",
+				"Camcorder Cases",
+				"Camcorder Lenses",
+				"Camcorder Tripods"
+			]
+		},
+		{
+			"category": "Video Equipment",
+			"products": [
+				"Video Cameras",
+				"Video Tripods",
+				"Video Lighting",
+				"Video Microphones",
+				"Video Editing Software",
+				"Video Monitors",
+				"Video Accessories",
+				"Video Capture Cards",
+				"Video Cables",
+				"Video Storage"
+			]
+		},
+		{
+			"category": "Drone",
+			"products": [
+				"Camera Drones",
+				"Racing Drones",
+				"Mini Drones",
+				"Professional Drones",
+				"Drone Accessories",
+				"Drone Batteries",
+				"Drone Propellers",
+				"Drone Controllers",
+				"Drone Cases",
+				"Drone Parts"
+			]
+		},
+		{
+			"category": "Smart Home",
+			"products": [
+				"Smart Speakers",
+				"Smart Displays",
+				"Smart Lights",
+				"Smart Thermostats",
+				"Smart Plugs",
+				"Smart Cameras",
+				"Smart Doorbells",
+				"Smart Locks",
+				"Smart Sensors",
+				"Smart Home Hubs"
+			]
+		},
+		{
+			"category": "Wearable Technology",
+			"products": [
+				"Smartwatches",
+				"Fitness Trackers",
+				"Smart Glasses",
+				"VR Headsets",
+				"Smart Rings",
+				"Wearable Cameras",
+				"Wearable Accessories",
+				"Wearable Health Devices",
+				"Wearable Audio Devices",
+				"Wearable Payment Devices",
+				"Apple Watch",
+				"Samsung Galaxy Watch",
+				"Fitbit",
+				"Garmin",
+				"Huawei Watch",
+				"Amazfit",
+				"Suunto",
+				"Fossil",
+				"TicWatch",
+				"Withings",
+				"Fitbit",
+				"Garmin",
+				"Xiaomi Mi Band",
+				"Samsung Galaxy Fit",
+				"Huawei Band",
+				"Amazfit",
+				"Suunto",
+				"Polar",
+				"Withings",
+				"Honor Band"
+			]
+		},
+		{
+			"category": "VR Headset",
+			"products": [
+				"Oculus Quest",
+				"PlayStation VR",
+				"HTC Vive",
+				"Valve Index",
+				"Samsung Gear VR",
+				"Google Daydream",
+				"HP Reverb",
+				"Pimax",
+				"Oculus Rift",
+				"Microsoft HoloLens"
+			]
+		},
+		{
+			"category": "Home Automation",
+			"products": [
+				"Smart Lights",
+				"Smart Thermostats",
+				"Smart Plugs",
+				"Smart Sensors",
+				"Smart Switches",
+				"Smart Blinds",
+				"Smart Garage Doors",
+				"Smart Sprinklers",
+				"Smart Locks",
+				"Smart Alarms"
+			]
+		},
+		{
+			"category": "Home Office",
+			"products": [
+				"Office Chairs",
+				"Desks",
+				"Monitor Stands",
+				"Desk Lamps",
+				"Office Storage",
+				"Office Decor",
+				"Filing Cabinets",
+				"Desk Organizers",
+				"Office Accessories",
+				"Office Supplies"
+			]
+		},
+		{
+			"category": "Smart TV",
+			"products": [
+				"Samsung Smart TVs",
+				"LG Smart TVs",
+				"Sony Smart TVs",
+				"Vizio Smart TVs",
+				"TCL Smart TVs",
+				"Hisense Smart TVs",
+				"Insignia Smart TVs",
+				"Toshiba Smart TVs",
+				"Philips Smart TVs",
+				"RCA Smart TVs"
+			]
+		},
+		{
+			"category": "Audio Equipment",
+			"products": [
+				"Speakers",
+				"Headphones",
+				"Soundbars",
+				"Home Theater Systems",
+				"Portable Bluetooth Speakers",
+				"Wireless Earbuds",
+				"Audio Receivers",
+				"Turntables",
+				"Microphones",
+				"Audio Accessories"
+			]
+		},
+		{
+			"category": "Headphone",
+			"products": [
+				"Over-Ear Headphones",
+				"On-Ear Headphones",
+				"In-Ear Headphones",
+				"Wireless Headphones",
+				"Noise-Canceling Headphones",
+				"Sports Headphones",
+				"Gaming Headphones",
+				"Bluetooth Headphones",
+				"True Wireless Earbuds",
+				"Headphone Accessories"
+			]
+		},
+		{
+			"category": "Speaker",
+			"products": [
+				"Bluetooth Speakers",
+				"Portable Speakers",
+				"Smart Speakers",
+				"Bookshelf Speakers",
+				"Floor Speakers",
+				"Soundbars",
+				"Home Theater Speakers",
+				"Outdoor Speakers",
+				"Waterproof Speakers",
+				"Speaker Accessories"
+			]
+		},
+		{
+			"category": "Turntable",
+			"products": [
+				"Belt-Drive Turntables",
+				"Direct-Drive Turntables",
+				"Automatic Turntables",
+				"Manual Turntables",
+				"USB Turntables",
+				"Vintage Turntables",
+				"Portable Turntables",
+				"DJ Turntables",
+				"Turntable Accessories",
+				"Turntable Parts"
+			]
+		},
+		{
+			"category": "Microphone",
+			"products": [
+				"Condenser Microphones",
+				"Dynamic Microphones",
+				"USB Microphones",
+				"Wireless Microphones",
+				"Lavalier Microphones",
+				"Shotgun Microphones",
+				"Podcast Microphones",
+				"Streaming Microphones",
+				"Microphone Stands",
+				"Microphone Accessories"
+			]
+		},
+		{
+			"category": "Musical Instrument",
+			"products": [
+				"Guitars",
+				"Pianos",
+				"Drums",
+				"Violins",
+				"Trumpets",
+				"Flutes",
+				"Saxophones",
+				"DJ Equipment",
+				"Music Accessories",
+				"Music Books",
+				"Guitar Strings",
+				"Guitar Picks",
+				"Drumsticks",
+				"Music Stands",
+				"Instrument Cables",
+				"Instrument Tuners",
+				"Instrument Cases",
+				"Instrument Stands",
+				"Instrument Straps",
+				"Instrument Cleaning Kits",
+				"Sheet Music",
+				"Music Theory Books",
+				"Instrument Method Books",
+				"Songbooks",
+				"Chord Books",
+				"Music History Books",
+				"Music Education Books",
+				"Music Practice Books",
+				"Music Composition Books",
+				"Music Reference Books"
+			]
+		},
+		{
+			"category": "DJ Equipment",
+			"products": [
+				"DJ Controllers",
+				"DJ Mixers",
+				"DJ Turntables",
+				"DJ Headphones",
+				"DJ Speakers",
+				"DJ Lighting",
+				"DJ Software",
+				"DJ Accessories",
+				"DJ Cases",
+				"DJ Cables"
+			]
+		},
+		{
+			"category": "Book",
+			"products": [
+				"Fiction Books",
+				"Non-Fiction Books",
+				"Children's Books",
+				"Young Adult Books",
+				"Mystery Books",
+				"Fantasy Books",
+				"Science Fiction Books",
+				"Romance Books",
+				"Biographies",
+				"Cookbooks",
+				"Biographies",
+				"Memoirs",
+				"Self-Help Books",
+				"Cookbooks",
+				"History Books",
+				"Science Books",
+				"Travel Books",
+				"Art Books",
+				"Business Books",
+				"Health Books",
+				"Picture Books",
+				"Early Readers",
+				"Chapter Books",
+				"Middle Grade Books",
+				"Children's Classics",
+				"Children's Fantasy",
+				"Children's Mystery",
+				"Children's Science Fiction",
+				"Children's Non-Fiction",
+				"Children's Poetry"
+			]
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+  "MongoConnectionString": "xxxxx",
+  "mongoDBName": "sampledb",
+  "mongoCollectionName": "stores"
+}
