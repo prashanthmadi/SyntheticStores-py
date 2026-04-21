@@ -230,3 +230,8 @@ Each store record contains:
 - pymongo 4.6.2
 - python-dotenv 1.0.1
 - MongoDB instance (optional - only for MongoDB output)
+
+## Contributors
+
+- **[sandeepsnairms](https://github.com/sandeepsnairms)** (Sandeep S Nair)
+- **[prashanthmadi](https://github.com/prashanthmadi)**
